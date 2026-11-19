@@ -1,0 +1,33 @@
+cafe_id,item,category,price,stock,available
+CAFE-001,Classic Veg Sandwich,Snacks,119,20,Yes
+CAFE-001,Paneer Protein Bowl,Meals,189,15,Yes
+CAFE-001,Mexican Veg Wrap,Snacks,149,18,Yes
+CAFE-001,Fresh Fruit Bowl,Healthy,129,12,Yes
+CAFE-001,Cold Coffee,Drinks,99,25,Yes
+CAFE-001,Veggie Salad,Healthy,139,12,Yes
+CAFE-001,Grilled Paneer Sandwich,Snacks,159,15,Yes
+CAFE-001,Lemon Iced Tea,Drinks,79,20,Yes
+CAFE-002,Veggie Delight Sub,Subs,159,20,Yes
+CAFE-002,Paneer Tikka Sub,Subs,199,15,Yes
+CAFE-002,Aloo Patty Sub,Subs,149,18,Yes
+CAFE-002,Chicken Teriyaki Sub,Subs,229,12,Yes
+CAFE-002,Choco Chip Cookie,Desserts,49,30,Yes
+CAFE-002,Corn and Peas Sub,Subs,179,15,Yes
+CAFE-002,Veg Seekh Sub,Subs,189,12,Yes
+CAFE-002,Cold Coffee,Drinks,99,20,Yes
+CAFE-003,Margherita Pizza,Pizza,99,20,Yes
+CAFE-003,Farmhouse Pizza,Pizza,249,15,Yes
+CAFE-003,Peppy Paneer Pizza,Pizza,229,15,Yes
+CAFE-003,Garlic Breadsticks,Sides,109,20,Yes
+CAFE-003,Choco Lava Cake,Desserts,109,18,Yes
+CAFE-003,Veg Extravaganza,Pizza,299,10,Yes
+CAFE-003,Cheese Burst Pizza,Pizza,279,12,Yes
+CAFE-003,Stuffed Garlic Bread,Sides,149,15,Yes
+CAFE-004,Plain Masala Dosa,South Indian,119,20,Yes
+CAFE-004,Mysore Masala Dosa,South Indian,149,15,Yes
+CAFE-004,Idli Sambhar (2 pcs),South Indian,69,25,Yes
+CAFE-004,Medu Vada (2 pcs),South Indian,79,20,Yes
+CAFE-004,Onion Uttapam,South Indian,129,15,Yes
+CAFE-004,Podi Idli,South Indian,99,15,Yes
+CAFE-004,Rava Dosa,South Indian,139,12,Yes
+CAFE-004,Filter Coffee,Drinks,59,25,Yes

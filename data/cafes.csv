@@ -1,0 +1,5 @@
+cafe_id,name,opening,closing,status,account_status,seats
+CAFE-001,GreenOx,08:00,22:00,Open,Active,40
+CAFE-002,Subway,09:00,22:00,Open,Active,50
+CAFE-003,Domino's,10:00,23:00,Open,Active,35
+CAFE-004,Southern Stories,08:00,22:00,Open,Active,60

@@ -1,0 +1,7 @@
+username,password,role,cafe_id
+fbmanager,fbmanager123,fnb_manager,
+greenox,greenox123,outlet_manager,CAFE-001
+subway,subway123,outlet_manager,CAFE-002
+dominos,dominos123,outlet_manager,CAFE-003
+southern,southern123,outlet_manager,CAFE-004
+yatharth09,123456,customer,
